@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ranjith1919/592week2.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Ranjith1919/592week2.git/static/js/main.8428ddd1.js",
+    "static/js/592.fcaccc09.chunk.js": "/Ranjith1919/592week2.git/static/js/592.fcaccc09.chunk.js",
+    "index.html": "/Ranjith1919/592week2.git/index.html",
+    "main.e6c13ad2.css.map": "/Ranjith1919/592week2.git/static/css/main.e6c13ad2.css.map",
+    "main.8428ddd1.js.map": "/Ranjith1919/592week2.git/static/js/main.8428ddd1.js.map",
+    "592.fcaccc09.chunk.js.map": "/Ranjith1919/592week2.git/static/js/592.fcaccc09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8428ddd1.js"
+  ]
+}
